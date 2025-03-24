@@ -17,4 +17,16 @@ Leetcode solutions utilizing extension named LeetHub
 |  |
 | ------- |
 | [0078-subsets](https://github.com/johnkimo5/leetcode-solutions/tree/master/0078-subsets) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/johnkimo5/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/johnkimo5/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/johnkimo5/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
