@@ -8,6 +8,7 @@ Leetcode solutions utilizing extension named LeetHub
 | [0039-combination-sum](https://github.com/johnkimo5/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/johnkimo5/leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/johnkimo5/leetcode-solutions/tree/master/0078-subsets) |
+| [0813-all-paths-from-source-to-target](https://github.com/johnkimo5/leetcode-solutions/tree/master/0813-all-paths-from-source-to-target) |
 ## Array
 |  |
 | ------- |
@@ -29,6 +30,7 @@ Leetcode solutions utilizing extension named LeetHub
 | [0110-balanced-binary-tree](https://github.com/johnkimo5/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/johnkimo5/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0270-closest-binary-search-tree-value](https://github.com/johnkimo5/leetcode-solutions/tree/master/0270-closest-binary-search-tree-value) |
+| [0813-all-paths-from-source-to-target](https://github.com/johnkimo5/leetcode-solutions/tree/master/0813-all-paths-from-source-to-target) |
 ## Binary Tree
 |  |
 | ------- |
@@ -47,4 +49,12 @@ Leetcode solutions utilizing extension named LeetHub
 |  |
 | ------- |
 | [0270-closest-binary-search-tree-value](https://github.com/johnkimo5/leetcode-solutions/tree/master/0270-closest-binary-search-tree-value) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/johnkimo5/leetcode-solutions/tree/master/0813-all-paths-from-source-to-target) |
+## Graph
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/johnkimo5/leetcode-solutions/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
