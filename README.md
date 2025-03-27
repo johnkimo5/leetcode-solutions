@@ -6,6 +6,7 @@ Leetcode solutions utilizing extension named LeetHub
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/johnkimo5/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/johnkimo5/leetcode-solutions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/johnkimo5/leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/johnkimo5/leetcode-solutions/tree/master/0078-subsets) |
 | [0813-all-paths-from-source-to-target](https://github.com/johnkimo5/leetcode-solutions/tree/master/0813-all-paths-from-source-to-target) |
@@ -13,6 +14,7 @@ Leetcode solutions utilizing extension named LeetHub
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/johnkimo5/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/johnkimo5/leetcode-solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/johnkimo5/leetcode-solutions/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
