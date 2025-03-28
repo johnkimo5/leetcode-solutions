@@ -5,6 +5,7 @@ Leetcode solutions utilizing extension named LeetHub
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/johnkimo5/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/johnkimo5/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/johnkimo5/leetcode-solutions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/johnkimo5/leetcode-solutions/tree/master/0077-combinations) |
@@ -59,4 +60,12 @@ Leetcode solutions utilizing extension named LeetHub
 |  |
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/johnkimo5/leetcode-solutions/tree/master/0813-all-paths-from-source-to-target) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/johnkimo5/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## String
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/johnkimo5/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
