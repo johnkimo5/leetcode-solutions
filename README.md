@@ -14,6 +14,7 @@ Leetcode solutions utilizing extension named LeetHub
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/johnkimo5/leetcode-solutions/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/johnkimo5/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/johnkimo5/leetcode-solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/johnkimo5/leetcode-solutions/tree/master/0078-subsets) |
@@ -63,6 +64,7 @@ Leetcode solutions utilizing extension named LeetHub
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/johnkimo5/leetcode-solutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/johnkimo5/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## String
 |  |
