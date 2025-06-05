@@ -46,6 +46,7 @@ Leetcode solutions utilizing extension named LeetHub
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/johnkimo5/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/johnkimo5/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search
 |  |
@@ -81,4 +82,12 @@ Leetcode solutions utilizing extension named LeetHub
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/johnkimo5/leetcode-solutions/tree/master/0695-max-area-of-island) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/johnkimo5/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/johnkimo5/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
