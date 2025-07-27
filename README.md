@@ -18,6 +18,7 @@ Leetcode solutions utilizing extension named LeetHub
 | [0039-combination-sum](https://github.com/johnkimo5/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/johnkimo5/leetcode-solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/johnkimo5/leetcode-solutions/tree/master/0078-subsets) |
+| [0560-subarray-sum-equals-k](https://github.com/johnkimo5/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/johnkimo5/leetcode-solutions/tree/master/0695-max-area-of-island) |
 ## Bit Manipulation
 |  |
@@ -70,6 +71,7 @@ Leetcode solutions utilizing extension named LeetHub
 | ------- |
 | [0001-two-sum](https://github.com/johnkimo5/leetcode-solutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/johnkimo5/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0560-subarray-sum-equals-k](https://github.com/johnkimo5/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -90,4 +92,8 @@ Leetcode solutions utilizing extension named LeetHub
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/johnkimo5/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/johnkimo5/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
