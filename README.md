@@ -19,6 +19,7 @@ Leetcode solutions utilizing extension named LeetHub
 | [0051-n-queens](https://github.com/johnkimo5/leetcode-solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/johnkimo5/leetcode-solutions/tree/master/0078-subsets) |
 | [0219-contains-duplicate-ii](https://github.com/johnkimo5/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0362-design-hit-counter](https://github.com/johnkimo5/leetcode-solutions/tree/master/0362-design-hit-counter) |
 | [0560-subarray-sum-equals-k](https://github.com/johnkimo5/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/johnkimo5/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/johnkimo5/leetcode-solutions/tree/master/0733-flood-fill) |
@@ -56,6 +57,7 @@ Leetcode solutions utilizing extension named LeetHub
 |  |
 | ------- |
 | [0270-closest-binary-search-tree-value](https://github.com/johnkimo5/leetcode-solutions/tree/master/0270-closest-binary-search-tree-value) |
+| [0362-design-hit-counter](https://github.com/johnkimo5/leetcode-solutions/tree/master/0362-design-hit-counter) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -106,4 +108,16 @@ Leetcode solutions utilizing extension named LeetHub
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/johnkimo5/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+## Design
+|  |
+| ------- |
+| [0362-design-hit-counter](https://github.com/johnkimo5/leetcode-solutions/tree/master/0362-design-hit-counter) |
+## Queue
+|  |
+| ------- |
+| [0362-design-hit-counter](https://github.com/johnkimo5/leetcode-solutions/tree/master/0362-design-hit-counter) |
+## Data Stream
+|  |
+| ------- |
+| [0362-design-hit-counter](https://github.com/johnkimo5/leetcode-solutions/tree/master/0362-design-hit-counter) |
 <!---LeetCode Topics End-->
