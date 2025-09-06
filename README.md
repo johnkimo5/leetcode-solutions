@@ -33,6 +33,7 @@ Leetcode solutions utilizing extension named LeetHub
 | [0110-balanced-binary-tree](https://github.com/johnkimo5/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/johnkimo5/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0270-closest-binary-search-tree-value](https://github.com/johnkimo5/leetcode-solutions/tree/master/0270-closest-binary-search-tree-value) |
+| [0743-closest-leaf-in-a-binary-tree](https://github.com/johnkimo5/leetcode-solutions/tree/master/0743-closest-leaf-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -41,6 +42,7 @@ Leetcode solutions utilizing extension named LeetHub
 | [0270-closest-binary-search-tree-value](https://github.com/johnkimo5/leetcode-solutions/tree/master/0270-closest-binary-search-tree-value) |
 | [0695-max-area-of-island](https://github.com/johnkimo5/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/johnkimo5/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0743-closest-leaf-in-a-binary-tree](https://github.com/johnkimo5/leetcode-solutions/tree/master/0743-closest-leaf-in-a-binary-tree) |
 | [0813-all-paths-from-source-to-target](https://github.com/johnkimo5/leetcode-solutions/tree/master/0813-all-paths-from-source-to-target) |
 ## Binary Tree
 |  |
@@ -48,6 +50,7 @@ Leetcode solutions utilizing extension named LeetHub
 | [0110-balanced-binary-tree](https://github.com/johnkimo5/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/johnkimo5/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0270-closest-binary-search-tree-value](https://github.com/johnkimo5/leetcode-solutions/tree/master/0270-closest-binary-search-tree-value) |
+| [0743-closest-leaf-in-a-binary-tree](https://github.com/johnkimo5/leetcode-solutions/tree/master/0743-closest-leaf-in-a-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -67,6 +70,7 @@ Leetcode solutions utilizing extension named LeetHub
 | ------- |
 | [0695-max-area-of-island](https://github.com/johnkimo5/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/johnkimo5/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0743-closest-leaf-in-a-binary-tree](https://github.com/johnkimo5/leetcode-solutions/tree/master/0743-closest-leaf-in-a-binary-tree) |
 | [0813-all-paths-from-source-to-target](https://github.com/johnkimo5/leetcode-solutions/tree/master/0813-all-paths-from-source-to-target) |
 ## Graph
 |  |
