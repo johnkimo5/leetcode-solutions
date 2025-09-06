@@ -16,20 +16,17 @@ class Solution:
     def findClosestLeaf(self, root: Optional[TreeNode], k: int) -> int:
         parent = {}
         start = None
-        def dfs(curr):
+        def dfs(curr, par):
             nonlocal start
             if not curr:
                 return
             if curr.val == k:
                 start = curr
-            if curr.left:
-                parent[curr.left] = curr
-            if curr.right:
-                parent[curr.right] = curr
-            dfs(curr.left)
-            dfs(curr.right)
+            parent[curr] = par
+            dfs(curr.left, curr)
+            dfs(curr.right, curr)
 
-        dfs(root)
+        dfs(root, None)
 
         q = deque([start])
         visited = set([start])
